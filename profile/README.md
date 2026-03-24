@@ -20,6 +20,7 @@ It combines a powerful and slick web interface with AI-driven tools to automate 
 - Full plugin locale and message customization.
 - Alt Account Linking: Smart system to identify and link alternate accounts.
 - Discord Integration: Connect your server's moderation directly to your Discord community.
+- Replay System: Highly performant, fully async, web-viewable replay buffer capture system (always running)
 
 # Links
 - Website: https://modl.gg
